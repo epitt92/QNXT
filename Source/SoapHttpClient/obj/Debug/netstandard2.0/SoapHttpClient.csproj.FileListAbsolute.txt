@@ -1,0 +1,9 @@
+F:\SoapHttpClient-master\Source\SoapHttpClient\bin\Debug\netstandard2.0\SoapHttpClient.deps.json
+F:\SoapHttpClient-master\Source\SoapHttpClient\bin\Debug\netstandard2.0\SoapHttpClient.dll
+F:\SoapHttpClient-master\Source\SoapHttpClient\bin\Debug\netstandard2.0\SoapHttpClient.pdb
+F:\SoapHttpClient-master\Source\SoapHttpClient\obj\Debug\netstandard2.0\SoapHttpClient.csprojAssemblyReference.cache
+F:\SoapHttpClient-master\Source\SoapHttpClient\obj\Debug\netstandard2.0\SoapHttpClient.AssemblyInfoInputs.cache
+F:\SoapHttpClient-master\Source\SoapHttpClient\obj\Debug\netstandard2.0\SoapHttpClient.AssemblyInfo.cs
+F:\SoapHttpClient-master\Source\SoapHttpClient\obj\Debug\netstandard2.0\SoapHttpClient.csproj.CoreCompileInputs.cache
+F:\SoapHttpClient-master\Source\SoapHttpClient\obj\Debug\netstandard2.0\SoapHttpClient.dll
+F:\SoapHttpClient-master\Source\SoapHttpClient\obj\Debug\netstandard2.0\SoapHttpClient.pdb

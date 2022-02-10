@@ -1,0 +1,136 @@
+F:\F test project\soapcall\mvcall\mvcall\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\F test project\soapcall\mvcall\mvcall\bin\Debug\netcoreapp3.1\appsettings.json
+F:\F test project\soapcall\mvcall\mvcall\bin\Debug\netcoreapp3.1\mvcall.exe
+F:\F test project\soapcall\mvcall\mvcall\bin\Debug\netcoreapp3.1\mvcall.deps.json
+F:\F test project\soapcall\mvcall\mvcall\bin\Debug\netcoreapp3.1\mvcall.runtimeconfig.json
+F:\F test project\soapcall\mvcall\mvcall\bin\Debug\netcoreapp3.1\mvcall.runtimeconfig.dev.json
+F:\F test project\soapcall\mvcall\mvcall\bin\Debug\netcoreapp3.1\mvcall.dll
+F:\F test project\soapcall\mvcall\mvcall\bin\Debug\netcoreapp3.1\mvcall.pdb
+F:\F test project\soapcall\mvcall\mvcall\bin\Debug\netcoreapp3.1\mvcall.Views.dll
+F:\F test project\soapcall\mvcall\mvcall\bin\Debug\netcoreapp3.1\mvcall.Views.pdb
+F:\F test project\soapcall\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.AssemblyInfoInputs.cache
+F:\F test project\soapcall\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.AssemblyInfo.cs
+F:\F test project\soapcall\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.csproj.CoreCompileInputs.cache
+F:\F test project\soapcall\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.MvcApplicationPartsAssemblyInfo.cache
+F:\F test project\soapcall\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.RazorAssemblyInfo.cache
+F:\F test project\soapcall\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.RazorAssemblyInfo.cs
+F:\F test project\soapcall\mvcall\mvcall\obj\Debug\netcoreapp3.1\staticwebassets\mvcall.StaticWebAssets.Manifest.cache
+F:\F test project\soapcall\mvcall\mvcall\obj\Debug\netcoreapp3.1\staticwebassets\mvcall.StaticWebAssets.xml
+F:\F test project\soapcall\mvcall\mvcall\obj\Debug\netcoreapp3.1\scopedcss\bundle\mvcall.styles.css
+F:\F test project\soapcall\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.TagHelpers.input.cache
+F:\F test project\soapcall\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.TagHelpers.output.cache
+F:\F test project\soapcall\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.RazorCoreGenerate.cache
+F:\F test project\soapcall\mvcall\mvcall\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\F test project\soapcall\mvcall\mvcall\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\F test project\soapcall\mvcall\mvcall\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\F test project\soapcall\mvcall\mvcall\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\F test project\soapcall\mvcall\mvcall\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\F test project\soapcall\mvcall\mvcall\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\F test project\soapcall\mvcall\mvcall\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\F test project\soapcall\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.RazorTargetAssemblyInfo.cache
+F:\F test project\soapcall\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.RazorTargetAssemblyInfo.cs
+F:\F test project\soapcall\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.Views.pdb
+F:\F test project\soapcall\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.dll
+F:\F test project\soapcall\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.pdb
+F:\F test project\soapcall\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.genruntimeconfig.cache
+F:\F test project\soapcall\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.csproj.CopyComplete
+F:\F test project\soapcall\mvcall\mvcall\bin\Debug\netcoreapp3.1\FluentAssertions.dll
+F:\F test project\soapcall\mvcall\mvcall\bin\Debug\netcoreapp3.1\SoapHttpClient.dll
+F:\F test project\soapcall\mvcall\mvcall\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\F test project\soapcall\mvcall\mvcall\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\F test project\soapcall\mvcall\mvcall\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+F:\F test project\soapcall\mvcall\mvcall\bin\Debug\netcoreapp3.1\xunit.assert.dll
+F:\F test project\soapcall\mvcall\mvcall\bin\Debug\netcoreapp3.1\xunit.core.dll
+F:\F test project\soapcall\mvcall\mvcall\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
+F:\F test project\soapcall\mvcall\mvcall\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\F test project\soapcall\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.csprojAssemblyReference.cache
+D:\Work\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Work\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Work\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\mvcall.StaticWebAssets.xml
+D:\Work\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\mvcall.exe
+D:\Work\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\mvcall.deps.json
+D:\Work\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\mvcall.runtimeconfig.json
+D:\Work\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\mvcall.runtimeconfig.dev.json
+D:\Work\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\mvcall.dll
+D:\Work\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\mvcall.pdb
+D:\Work\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\mvcall.Views.dll
+D:\Work\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\mvcall.Views.pdb
+D:\Work\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\FluentAssertions.dll
+D:\Work\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\SoapHttpClient.dll
+D:\Work\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Work\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Work\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+D:\Work\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\xunit.assert.dll
+D:\Work\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\xunit.core.dll
+D:\Work\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
+D:\Work\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.AssemblyInfoInputs.cache
+D:\Work\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.AssemblyInfo.cs
+D:\Work\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.csproj.CoreCompileInputs.cache
+D:\Work\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.RazorAssemblyInfo.cache
+D:\Work\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.RazorAssemblyInfo.cs
+D:\Work\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\staticwebassets\mvcall.StaticWebAssets.Manifest.cache
+D:\Work\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.TagHelpers.input.cache
+D:\Work\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.TagHelpers.output.cache
+D:\Work\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.RazorCoreGenerate.cache
+D:\Work\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Work\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Work\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Work\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Work\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Work\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Work\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Work\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.RazorTargetAssemblyInfo.cache
+D:\Work\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.RazorTargetAssemblyInfo.cs
+D:\Work\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.Views.pdb
+D:\Work\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.csproj.CopyComplete
+D:\Work\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.dll
+D:\Work\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.pdb
+D:\Work\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.genruntimeconfig.cache
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\mvcall.StaticWebAssets.xml
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\mvcall.deps.json
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\mvcall.runtimeconfig.json
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\mvcall.runtimeconfig.dev.json
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\mvcall.dll
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\mvcall.pdb
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\mvcall.Views.dll
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\mvcall.Views.pdb
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.AssemblyInfoInputs.cache
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.AssemblyInfo.cs
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.csproj.CoreCompileInputs.cache
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.RazorAssemblyInfo.cache
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.RazorAssemblyInfo.cs
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\staticwebassets\mvcall.StaticWebAssets.Manifest.cache
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.TagHelpers.input.cache
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.TagHelpers.output.cache
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.RazorCoreGenerate.cache
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.RazorTargetAssemblyInfo.cache
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.RazorTargetAssemblyInfo.cs
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.Views.pdb
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.csproj.CopyComplete
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.dll
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.pdb
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.genruntimeconfig.cache
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\mvcall.exe
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\FluentAssertions.dll
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\SoapHttpClient.dll
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\xunit.assert.dll
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\xunit.core.dll
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\QNXT\AEOB requirement\mvcall\mvcall\obj\Debug\netcoreapp3.1\mvcall.MvcApplicationPartsAssemblyInfo.cache
